@@ -2,5 +2,5 @@
     layout: slide
     title: "Welcome to our second slide!"
     ---
-    Your text
+    'KARIUKI GEORGE GITHAIGA IS MY NAME'
     Use the left arrow to go back!
